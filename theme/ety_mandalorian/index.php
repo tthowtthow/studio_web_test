@@ -190,7 +190,7 @@ http://ety.kr/board/qa
 <div class="margin-top-100"></div>
 <div class="container-fluid" style="padding:0;margin:0px;">
 	<div class="center-heading ks4">
-		<h2>만달로리안 시즌3 <strong>예고편</strong> </h2>
+		<h2>만달로리안 시즌3 <strong>바뀐거 테스트하겠음</strong> </h2>
 		<span class="center-line"></span>
 	</div>
 	<div class="row" style="margin:0px;">
